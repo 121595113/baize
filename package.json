@@ -30,6 +30,6 @@
     "babel-eslint": "^10.1.0",
     "eslint": "^7.1.0",
     "standard": "^14.3.4",
-    "vuepress": "^0.14.8"
+    "vuepress": "^1.9.7"
   }
 }
